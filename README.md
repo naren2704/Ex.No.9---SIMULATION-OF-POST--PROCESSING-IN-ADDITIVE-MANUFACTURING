@@ -55,7 +55,8 @@
 3.Heat Treatment
 ![image](https://github.com/user-attachments/assets/ae528890-e1e1-4e09-8ba6-ab37b8e4f882)
 
-### Name:MEERA HUSSAIN . A
-### Register Number:212224230155
-## Result: 
-### Thus the simulation on the Postprocessing in additive manufacturing is completed.
+### Name:NARENDRAN B
+### Register Number:212222240069
+
+## RESULT:
+ Thus the simulation on the Postprocessing in additive manufacturing is completed.
